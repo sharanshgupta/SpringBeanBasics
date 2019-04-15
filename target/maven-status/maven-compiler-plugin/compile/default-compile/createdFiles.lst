@@ -1,0 +1,7 @@
+spring\firstproject\spring5tutorial\Spring5TutorialApplication.class
+spring\firstproject\spring5tutorial\mail\MailConfig.class
+spring\firstproject\spring5tutorial\controllers\MailController.class
+spring\firstproject\spring5tutorial\mail\MailSender.class
+spring\firstproject\spring5tutorial\mail\MockMailSender.class
+spring\firstproject\spring5tutorial\controllers\HelloController.class
+spring\firstproject\spring5tutorial\mail\SmtpMailSender.class
